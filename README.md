@@ -1,7 +1,7 @@
 
 # <h1 align="center">Ammar Portfolio ⚡️ </h1>   
 
-# <p align="center">
+<p align="center">
   <a href=""><img alt="NodeJS" src="https://img.shields.io/badge/node-14.15.4-important?style=flat-square" /></a>  
   <a href=""><img alt="NPM" src="https://img.shields.io/badge/npm-6.14.11-blueviolet?style=flat-square" /></a>  
   <a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" /></a>  
